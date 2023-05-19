@@ -1,6 +1,10 @@
 body{
     font-family: sans-serif;
     text-align: center;
+    color: blueviolet;
+}
+testo{
+    color: violet;
 }
 input{
     display: block;
